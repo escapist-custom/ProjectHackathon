@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/map"
+        android:title="Карты"
+        android:icon="@drawable/viewlistr" />
+    <item android:id="@+id/routes_list"
+        android:title="Маршруты"
+        android:icon="@drawable/book_open" />
+    <item android:id="@+id/favourite_routes_list"
+        android:title="Любимые маршруты"
+        android:icon="@drawable/heart" />
+    <item android:id="@+id/settings"
+        android:title="Настройки"
+        android:icon="@drawable/settings" />
+
+</menu>

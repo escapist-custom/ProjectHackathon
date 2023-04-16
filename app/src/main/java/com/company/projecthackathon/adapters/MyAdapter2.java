@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-import androidx.recyclerview.widget.RecyclerView.ViewHolder;
 
 import com.company.projecthackathon.R;
 import com.company.projecthackathon.activities.RouteDescriptionActivity;
@@ -19,12 +18,12 @@ import com.company.projecthackathon.views.Item;
 
 import java.util.List;
 
-public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
+public class MyAdapter2 extends RecyclerView.Adapter<MyAdapter2.ViewHolder> {
 
     ItemBinding binding;
     private final List<Item> data;
 
-    public MyAdapter(List<Item> data) {
+    public MyAdapter2(List<Item> data) {
         this.data = data;
     }
     @NonNull

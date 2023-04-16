@@ -11,19 +11,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center">
-        <ImageButton
-            android:id="@+id/map"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:background="@drawable/viewlistr">
-        </ImageButton>
 
         <ImageButton
             android:id="@+id/routes_list"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:layout_marginLeft="40dp"
-            android:layout_toEndOf="@id/map"
             android:background="@drawable/book_open">
 
         </ImageButton>
@@ -33,7 +25,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_toEndOf="@id/routes_list"
-            android:layout_marginLeft="40dp"
+            android:layout_marginLeft="60dp"
             android:background="@drawable/heart">
         </ImageButton>
 
@@ -42,7 +34,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_toEndOf="@id/favourite_routes_list"
-            android:layout_marginLeft="40dp"
+            android:layout_marginLeft="60dp"
             android:background="@drawable/settings">
         </ImageButton>
 

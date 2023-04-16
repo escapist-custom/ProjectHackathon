@@ -6,10 +6,12 @@
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/drawable/round_bottom.xml" value="0.2740740740740741" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/font/montserrat.xml" value="0.2740740740740741" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_app.xml" value="0.25252525252525254" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_description_route.xml" value="0.33967391304347827" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_enter.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_enter2.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_login2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_login3.xml" value="0.33967391304347827" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_map.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
@@ -19,7 +21,7 @@
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/fragment_routes.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/fragment_scroll_bar.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/layout/item.xml" value="0.33" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/ProjectHackathon/app/src/main/res/menu/my_navigation_items.xml" value="0.36666666666666664" />
       </map>
     </option>

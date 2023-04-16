@@ -1,4 +1,6 @@
-package com.company.projecthackathon.data;
+package com.company.projecthackathon.data.users;
+
+import com.company.projecthackathon.data.RetrofitService;
 
 public class UserApiService {
 

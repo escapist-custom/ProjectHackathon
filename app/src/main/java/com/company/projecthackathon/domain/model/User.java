@@ -1,4 +1,4 @@
-package com.company.projecthackathon.domain;
+package com.company.projecthackathon.domain.model;
 
 import java.util.ArrayList;
 
